@@ -7,7 +7,7 @@
 #############################
 ##  APPLICATION VARIABLES  ##
 #############################
-$DeploymentSite = "https://deploy.itninjastech.com/deploy";
+$DeploymentSite = "https://YOUR_SITE_HERE.com/deploy";
 $AppName = "Google_Drive";          $AppDir = "Google";          
 $PackageHash = "";
 $64bitPackage_URL = "https://dl.google.com/drive-file-stream/GoogleDrive.exe"
