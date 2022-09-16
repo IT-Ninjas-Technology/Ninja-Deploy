@@ -1,0 +1,3 @@
+Change Logs
+
+2022 - SEPT - 16 : Added Ninja Deploy Google Chrome Enterprise (most up to date / most recent)
